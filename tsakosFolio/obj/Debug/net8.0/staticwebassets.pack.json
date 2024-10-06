@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tsakosFolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tsakosFolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\css\\vendors\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\css\\vendors\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\css\\vendors\\ug-theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\ug-theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\css\\vendors\\unite-gallery.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\unite-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\albums\\img-md.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\albums\\img-md.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\arrow_down_up.png",
+      "PackagePath": "staticwebassets\\assets\\images\\arrow_down_up.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\button-close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button-close.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\button_fullscreen_single.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_fullscreen_single.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\button_playpause_single.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_playpause_single.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\cover-grid.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cover-grid.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\gallery\\img-h.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\img-h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\gallery\\img-v.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\img-v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\home-slider\\img-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-slider\\img-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\ico\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ico\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\icon-link32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-link32.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\icon-play32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-play32.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\icon-zoom32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-zoom32.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\lightbox-arrow-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox-arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\lightbox-arrow-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox-arrow-right.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\lightbox-icon-close-compact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox-icon-close-compact.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\lightbox-icon-close-compact2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox-icon-close-compact2.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\lightbox-icon-close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox-icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black1.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black1.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black2.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black2.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black3.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black3.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black4.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black4.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black5.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black5.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black6.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black6.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-black7.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-black7.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white1.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white1.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white2.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white2.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white3.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white3.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white4.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white4.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white5.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white5.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white6.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white6.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader-white7.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader-white7.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader_bright.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader_bright.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\loader_skype_trans.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader_skype_trans.gif"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\not_loaded.png",
+      "PackagePath": "staticwebassets\\assets\\images\\not_loaded.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\play-button-round.png",
+      "PackagePath": "staticwebassets\\assets\\images\\play-button-round.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\play-button-square.png",
+      "PackagePath": "staticwebassets\\assets\\images\\play-button-square.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\images\\transparent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\anime.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\anime.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\jquery.filterizr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery.filterizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\ug-theme-default.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\ug-theme-default.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\ug-theme-tiles.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\ug-theme-tiles.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\assets\\js\\vendors\\unitegallery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\unitegallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-delvis-2444852.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-delvis-2444852.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-expressivestanley-3148452.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-expressivestanley-3148452.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-football-wife-577822-1349339.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-football-wife-577822-1349339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-football-wife-577822-1618200.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-football-wife-577822-1618200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-football-wife-577822-1618269.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-football-wife-577822-1618269.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-jim-de-ramos-395808-1263349.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-jim-de-ramos-395808-1263349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-jim-de-ramos-395808-1263426.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-jim-de-ramos-395808-1263426.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-jimbear-2310482.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-jimbear-2310482.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-mali-1415810.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-mali-1415810.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-noellegracephotos-906073.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-noellegracephotos-906073.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-163452.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-163452.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-163526.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-163526.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-2207.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-2207.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-248547.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-248547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-34514.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-34514.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-46537.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-46537.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-47730.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-47730.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-69773.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-69773.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-pixabay-70567.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-70567.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\images\\pexels-timmossholder-1080882.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-timmossholder-1080882.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\johnk\\source\\repos\\tsakosFolio\\tsakosFolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tsakosFolio.props",
+      "PackagePath": "build\\tsakosFolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tsakosFolio.props",
+      "PackagePath": "buildMultiTargeting\\tsakosFolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tsakosFolio.props",
+      "PackagePath": "buildTransitive\\tsakosFolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tsakosFolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
